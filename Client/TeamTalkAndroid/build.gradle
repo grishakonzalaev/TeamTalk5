@@ -15,8 +15,8 @@ android {
         applicationId = 'dk.bearware.guibeka'
         minSdk = 21
         targetSdk = 36
-        versionCode = 147
-        versionName = '5.21'
+        versionCode = 148
+        versionName = '5.22'
 
         testInstrumentationRunner = 'androidx.test.runner.AndroidJUnitRunner'
     }

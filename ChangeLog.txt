@@ -8,6 +8,7 @@ Default Qt Client
 - Option to disable sound device detection notifications in statusbar events
 - Ukranian translation
 - Speak Client Statistics now refreshes network latency on Ctrl+T
+- Easy log on to server using Join Code
 - Fixed bug where the value of the Show chat history as list view instead of text edit setting was sometimes deleted
 - Fixed bug where only first resolved IP-address was used for connection attempt
 - Fixed bug where all servers with same name was deleted on server deletion
@@ -18,6 +19,7 @@ Android Client
 - Fixed using Bluetooth headset microphone on some Xiaomi firmwares
 iOS Client
 - Ukranian translation
+- Easy log on to server using Join Code
 - Fixed bug where only first resolved IP-address was used for connection attempt
 Server
 - Ability to open TCP/UDP ports using UPnP
